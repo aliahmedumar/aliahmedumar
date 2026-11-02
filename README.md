@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skimmy.ai">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=C08A1E&center=true&vCenter=true&width=640&lines=Voice+AI+Engineer+%40+Skimmy+AI;Project+Lead+Developer+%40+CloudOrdinate;LLMs+%E2%86%92+STT+%E2%86%92+TTS+%E2%86%92+Telephony;Shipping+software+for+logistics%2C+commerce+%26+wellness" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=C08A1E&center=true&vCenter=true&width=640&lines=Voice+AI+Engineer+%40+Skimmy+AI;Project+Lead+Developer+%40+CloudOrdinate;LLMs+%E2%86%92+STT+%E2%86%92+TTS+%E2%86%92+Telephony;Software+for+logistics%2C+commerce+%26+wellness" alt="typing"/>
   </a>
 </p>
 
@@ -13,6 +13,7 @@
   <a href="https://ali.cloudordinate.com"><img src="https://img.shields.io/badge/Portfolio-C08A1E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ali-ahmed-551b2b416/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ali@skimmy.ai"><img src="https://img.shields.io/badge/ali%40skimmy.ai-1A1A1A?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+  <a href="https://x.com/AliAhmed9465"><img src="https://img.shields.io/badge/%40AliAhmed9465-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://instagram.com/alii.builds"><img src="https://img.shields.io/badge/%40alii.builds-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/aliahmedumar"><img src="https://komarev.com/ghpvc/?username=aliahmedumar&color=C08A1E&style=for-the-badge&label=VIEWS"/></a>
 </p>
@@ -30,7 +31,10 @@
 ### 🔊 How a Skimmy call works
 
 <a href="https://skimmy.ai">
-  <img src="skimmy-flow.svg" width="100%" alt="Skimmy call flow"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="skimmy-flow-dark.svg"/>
+    <img src="skimmy-flow.svg" width="100%" alt="Skimmy call flow"/>
+  </picture>
 </a>
 
 ---
@@ -88,12 +92,6 @@
 <p align="center">
   <a href="https://github.com/aliahmedumar">
     <img src="https://streak-stats.demolab.com?user=aliahmedumar&theme=tokyonight&hide_border=true&ring=C08A1E&fire=C08A1E&currStreakLabel=C08A1E" height="165"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aliahmedumar">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliahmedumar&bg_color=0d1117&color=C08A1E&line=8A6214&point=FBF4E6&area=true&hide_border=true" width="100%"/>
   </a>
 </p>
 
